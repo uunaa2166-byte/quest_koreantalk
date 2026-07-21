@@ -1,0 +1,6 @@
+{
+  "name": "단어 퀘스트 대결",
+  "description": "10개의 단어를 두 팀이 나누어 맞히는 퀘스트 게임입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
